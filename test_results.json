@@ -1,0 +1,4 @@
+[
+    {"test_case": "Test Case 1", "status": "pass", "execution_time": 2.5, "timestamp": "2023-01-01T12:00:00"},
+    {"test_case": "Test Case 2", "status": "fail", "execution_time": 5.2, "timestamp": "2023-01-01T12:15:00"}
+]

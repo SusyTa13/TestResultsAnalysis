@@ -1,0 +1,3 @@
+Test Case,Status,Execution Time,Timestamp,Total Test Cases,Passed Test Cases,Failed Test Cases,Average Execution Time,Min Execution Time,Max Execution Time
+Test Case 1,pass,2.5,2023-01-01T12:00:00,,,,,,
+Test Case 2,fail,5.2,2023-01-01T12:15:00,,,,,,
